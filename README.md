@@ -1,4 +1,5 @@
-## Fork from https://github.com/PacktWorkshops/The-Applied-TensorFlow-and-Keras-Workshop.git
+## Forked from
+## https://github.com/PacktWorkshops/The-Applied-TensorFlow-and-Keras-Workshop.git
 
 # The Applied TensorFlow and Keras Workshop
 [![GitHub issues](https://img.shields.io/github/issues/PacktWorkshops/The-Applied-TensorFlow-and-Keras-Workshop.svg)](https://github.com/PacktWorkshops/The-Applied-TensorFlow-and-Keras-Workshop/issues)
